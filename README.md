@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently learning fullstack development.<br> 🤝 I’m seeking help with Mobile (Android and IOS) development for our WEB 3.0 ecosystem.<br>🌱 I’m currently learning: Prompt Engineering and other AI tools.<br>💬 Ask me about Java development, Front-end development and Generative AI.
+🔭 I'm currently learning fullstack development.<br> 🤝 I’m seeking help with Mobile (Android and IOS) development for our WEB 3.0 ecosystem.<br>🌱 I’m currently learning: Prompt Engineering and other AI tools.<br>💬 Ask me about .Net development, Front-end development and Generative AI.
 
 ## 🌐 Socials:
  [![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/saahil_kareer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saahil-kareer-) [![](https://badges.peiyuan.ch/leetcode/Aayush-Joshi/ranking?label=Saahil1311&logo=leetcode)](https://leetcode.com/Saiko1311/)
